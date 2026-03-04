@@ -1,0 +1,8 @@
+
+{
+  "name": "NoorAtelier AI Wardrobe",
+  "description": "A sophisticated AI-powered digital wardrobe and personal stylist app that helps you curate looks, plan your week, and connect with a style-conscious community.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
